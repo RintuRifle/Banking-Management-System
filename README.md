@@ -145,12 +145,13 @@ java -cp ".:/path/to/mysql-connector.jar:/path/to/mail.jar:/path/to/twilio.jar" 
 ---
 
 ## Screenshots
-![1](path/to/image1.png)
-![2](path/to/image2.png)
-![3](path/to/image3.png)
-![4](path/to/image4.png)
-![5](path/to/image5.png)
-
+![1](/image1.png)
+![2](/image2.png)
+![3](/image3.png)
+![4](/image4.png)
+![5](/image5.png)
+![5](/image6.png)
+![5](/image7.png)
 ---
 
 ## Technologies Used
