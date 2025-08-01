@@ -21,7 +21,7 @@ public class Login extends JFrame implements ActionListener {
         logoLabel.setBounds(70, 10, 100, 100);
         add(logoLabel);
 
-        l1 = new JLabel("<html><center>RESERVE BANK OF INDIA</center></html>", SwingConstants.CENTER);
+        l1 = new JLabel("<html><center>BEST BANK OF INDIA</center></html>", SwingConstants.CENTER);
         l1.setFont(new Font("Osward", Font.BOLD, 28));
         l1.setBounds(150, 40, 500, 60);
         l1.setForeground(new Color(25, 25, 112));
