@@ -20,7 +20,7 @@ public class MiniStatement extends JFrame implements ActionListener {
         setLocation(20, 20);
 
         // Add the header label
-        JLabel l2 = new JLabel("RESERVE BANK OF INDIA");
+        JLabel l2 = new JLabel("BEST BANK OF INDIA");
         l2.setBounds(200, 20, 200, 20);
         add(l2);
 
