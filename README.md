@@ -145,6 +145,11 @@ java -cp ".:/path/to/mysql-connector.jar:/path/to/mail.jar:/path/to/twilio.jar" 
 ---
 
 ## Screenshots
+![1](path/to/image1.png)
+![2](path/to/image2.png)
+![3](path/to/image3.png)
+![4](path/to/image4.png)
+![5](path/to/image5.png)
 
 ---
 
@@ -182,11 +187,6 @@ This project demonstrates:
 ## License
 
 This project is for educational and demonstration purposes only. Feel free to fork, modify, and learn from the code.
----
-## Contact
-
-For any queries or contributions, please contact:  
-**Your Name or Email**
 ---
 *Thank you for checking out the Bank Management System!*
 
