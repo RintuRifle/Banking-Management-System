@@ -21,7 +21,7 @@ public class Transactions extends JFrame implements ActionListener {
         backgroundLabel.setBounds(0, 0, 960, 1080);
         add(backgroundLabel);
         
-        heading = new JLabel("RESERVE BANK OF INDIA", SwingConstants.CENTER);
+        heading = new JLabel("BEST BANK OF INDIA", SwingConstants.CENTER);
         heading.setForeground(Color.WHITE);
         heading.setFont(new Font("System", Font.BOLD, 26));
         heading.setOpaque(true);
