@@ -187,6 +187,6 @@ This project demonstrates:
 ---
 ## License
 
-This project is for educational and demonstration purposes only. Feel free to fork, modify, and learn from the code.
+This project is for educational and demonstration purposes only. You see some places blur as I by mistake used logo and name of RBI which is illegal without prior permission. Feel free to fork, modify, and learn from the code.
 ---
 *Thank you for checking out the Bank Management System!*
