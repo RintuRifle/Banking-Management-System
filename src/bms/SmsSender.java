@@ -12,10 +12,10 @@ import com.twilio.type.PhoneNumber;
 public class SmsSender {
 
 
-    private static final String ACCOUNT_SID = "AC194d3280e62fa05f2a74efc74ec4d3dd";
-    private static final String AUTH_TOKEN = "dce20ab3768da59bec5be7f283c0426d"; 
+    private static final String ACCOUNT_SID = "api1";
+    private static final String AUTH_TOKEN = "api2"; 
 
-    private static final String TWILIO_PHONE_NUMBER = "+15073966776"; //
+    private static final String TWILIO_PHONE_NUMBER = "Your twillio number"; //
 
     static {
         Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
@@ -37,3 +37,4 @@ public class SmsSender {
         }
     }
 }
+
