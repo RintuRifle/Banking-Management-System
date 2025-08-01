@@ -1,4 +1,4 @@
-
+il
 package ASimulatorSystem;
 
 import java.util.Properties;
@@ -7,8 +7,8 @@ import javax.mail.internet.*;
 
 public class EmailSender {
 
-    private static final String FROM_EMAIL = "rishimuni797658@gmail.com"; // Sender's email
-    private static final String PASSWORD = "Akshit@123";               // Sender's email password
+    private static final String FROM_EMAIL = "email"; // Sender's email
+    private static final String PASSWORD = "password";               // Sender's email password
 
       public static void sendEmail(String toEmail, String subject, String messageBody) {
         Properties properties = new Properties();
@@ -39,3 +39,4 @@ public class EmailSender {
         }
     }
 }
+
